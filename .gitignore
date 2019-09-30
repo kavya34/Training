@@ -1,1 +1,4 @@
-*node_modules/*
+node-example2/node_modules
+node-example2/package-lock.json
+node-mongodb-app/node_modules
+node-mongodb-app/package-lock.json
